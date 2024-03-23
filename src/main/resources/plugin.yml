@@ -1,0 +1,7 @@
+name: SpotifyForSpigot
+version: '${project.version}'
+main: net.crossager.spotifyforspigot.SpotifyForSpigot
+api-version: '1.19'
+depend:
+  - Tactical
+authors: [Crossager]
