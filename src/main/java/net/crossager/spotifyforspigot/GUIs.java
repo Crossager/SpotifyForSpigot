@@ -1,8 +1,8 @@
 package net.crossager.spotifyforspigot;
 
 import net.crossager.tactical.api.gui.inventory.ItemUtils;
-import net.crossager.tactical.api.gui.inventory.TacticalGUIContainer;
-import net.crossager.tactical.api.gui.inventory.TacticalStaticGUIComponent;
+import net.crossager.tactical.api.gui.inventory.components.TacticalGUIContainer;
+import net.crossager.tactical.api.gui.inventory.components.TacticalStaticGUIComponent;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 

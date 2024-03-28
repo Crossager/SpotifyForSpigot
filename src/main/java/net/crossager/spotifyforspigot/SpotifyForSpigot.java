@@ -4,6 +4,7 @@ import net.crossager.tactical.api.TacticalCommands;
 import net.crossager.tactical.api.TacticalMusic;
 import net.crossager.tactical.api.commands.TacticalCommand;
 import net.crossager.tactical.api.gui.inventory.*;
+import net.crossager.tactical.api.gui.inventory.components.TacticalStaticGUIComponent;
 import net.crossager.tactical.api.music.TacticalMidiParsingOptions;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
