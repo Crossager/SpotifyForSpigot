@@ -61,6 +61,10 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -71,19 +75,19 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>net.crossager</groupId>
+            <groupId>com.github.Crossager.Tactical</groupId>
             <artifactId>TacticalMusic</artifactId>
             <version>1.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>net.crossager</groupId>
+            <groupId>com.github.Crossager.Tactical</groupId>
             <artifactId>TacticalCommands</artifactId>
             <version>1.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>net.crossager</groupId>
+            <groupId>com.github.Crossager.Tactical</groupId>
             <artifactId>TacticalGUI</artifactId>
             <version>1.0</version>
             <scope>provided</scope>
